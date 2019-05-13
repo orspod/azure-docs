@@ -49,7 +49,7 @@ In this quickstart, you learn how to set an [Azure Event Grid](/azure/event-grid
      It *must* be set as follows: *`/blobServices/default/containers/`*[container prefix]
     * **Subject Ends With** field is the *literal* suffix of the blob. No wildcards are allowed.
 
-## Create a target table in Azure Data Explorer
+## Create a target table in Azure Data Explore
 
 Create a table in Azure Data Explorer where Event Hubs will send data. Create the table in the cluster and database prepared in the prerequisites.
 
