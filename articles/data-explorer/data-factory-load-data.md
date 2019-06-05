@@ -177,7 +177,7 @@ Azure Data Explorer new linked service is created to copy the data into the Azur
 
     ![Deployment page](media/data-factory-load-data/deployment.png)
 
-## Next steps
+## Next steps 
 
 * Learn about the [Azure Data Explorer connector](/azure/data-factory/connector-azure-data-explorer) in Azure Data Factory.
 
